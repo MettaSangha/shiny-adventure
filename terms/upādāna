@@ -1,0 +1,27 @@
+{
+  "term": "upādāna",
+  "normalized_term": "upadana",
+  "part_of_speech": "noun",
+  "preferred_translation": "clinging",
+  "alternative_translations": [
+    "appropriation",
+    "grasping"
+  ],
+  "discouraged_translations": [
+    "attachment"
+  ],
+  "untranslated_preferred": false,
+  "definition": "The act of grasping or appropriating phenomena as 'mine', reinforcing the continuity of becoming.",
+  "notes": "In dependent origination, clinging conditions becoming (bhava). It represents the intensification of craving.",
+  "related_terms": [
+    "tanha",
+    "bhava",
+    "dukkha",
+    "paticcasamuppada"
+  ],
+  "tags": [
+    "dependent-origination",
+    "psychology"
+  ],
+  "status": "stable"
+}
